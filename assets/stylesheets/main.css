@@ -363,6 +363,11 @@ p a {
   float: right;
 }
 
+.map>ymaps {
+    margin: 36px auto;
+    border: 1px solid #92afa8;
+}
+
 /*
   ========================================
   О нас
