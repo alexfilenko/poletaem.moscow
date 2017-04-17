@@ -54,7 +54,7 @@ table {
   ========================================
 */
 body {
-  background: #293f50;
+  background: #242c44;
   color: #888;
   font: 300 16px/22px "Roboto", "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
@@ -262,7 +262,6 @@ p a {
 */
 
 .logo {
-  border-top: 4px solid #648880;
   float: left;
   font-size: 48px;
   font-weight: 100;
@@ -271,6 +270,11 @@ p a {
   padding: 40px 0 22px 0;
   text-transform: uppercase;
 }
+
+.logo img {
+    width: 320px;
+}
+
 .tagline {
   margin: 66px 0 22px 0;
   text-align: right;
