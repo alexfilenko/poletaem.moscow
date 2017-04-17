@@ -356,6 +356,13 @@ p a {
   max-width: 100%
 }
 
+.howto-img {
+  border-radius: 5px;
+  display: block;
+  margin: 10px;
+  float: right;
+}
+
 /*
   ========================================
   О нас
