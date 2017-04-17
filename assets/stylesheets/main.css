@@ -359,7 +359,8 @@ p a {
 .howto-img {
   border-radius: 5px;
   display: block;
-  margin: 42px auto;
+  margin: 10px;
+  float: right;
 }
 
 /*
