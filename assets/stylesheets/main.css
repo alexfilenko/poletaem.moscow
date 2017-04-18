@@ -253,6 +253,7 @@ p a {
 }
 .btn-default:hover {
   background: #77a198;
+  color: white;
 }
 
 
@@ -370,6 +371,11 @@ p a {
 
 .lead a {
   border: 0;
+}
+
+.actions {
+  text-align: center;
+  margin: 32px 0;
 }
 
 /*
